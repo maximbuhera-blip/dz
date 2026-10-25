@@ -1,0 +1,12 @@
+4b3351c Remove temporary scratch file
+615ff38 Restore original CTA design
+c1265ea Try rounded CTA design
+4530390 Create responsive fitness coach page
+Design checkpoint demonstration
+
+1. Baseline: 4530390 Create responsive fitness coach page
+2. Temporary design experiment: c1265ea Try rounded CTA design (border-radius 999px; horizontal padding 26px)
+3. Restored prior CSS from baseline and saved: 615ff38 Restore original CTA design
+4. Cleanup commit: see the current repository log.
+
+Current styles.css has the original 3px button corner radius. The intended temporary change is preserved in commit c1265ea; the restore commit returns to the original design.
